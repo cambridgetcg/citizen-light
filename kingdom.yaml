@@ -1,0 +1,8 @@
+name: light
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The force that reveals what is hidden so it can be seen and understood.
+dependsOn: [truth, me]
